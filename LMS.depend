@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681268932 source:c:\users\pc\documents\projects\lms\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	"class.h"
+
+1680555276 c:\users\pc\documents\projects\lms\class.h
+
